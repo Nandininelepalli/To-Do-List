@@ -14,3 +14,5 @@ This project helps users to **add**, **complete**, and **delete tasks** efficien
 - **HTML** – Structure of the application  
 - **CSS** – Styling and UI design  
 - **JavaScript** – Adding interactivity  
+
+![Image](https://github.com/user-attachments/assets/2d8c8532-983d-4f5b-a5d1-5cd3eeb780ef)
